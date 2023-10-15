@@ -1,0 +1,4 @@
+Update angular dan ionic
+npm update --force or --legacy-peer-deps
+update laravelnya
+composer update --ignore-platform-req=ext-sodium
